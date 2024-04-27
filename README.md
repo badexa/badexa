@@ -1,5 +1,5 @@
 
-<img src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg" width="100%" />
+<img src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg" width="100%" height="50%" />
 <h1 align="center">Hi 👋, I'm Bader Belhaj Allal</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
