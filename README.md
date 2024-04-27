@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bader Belhaj Allal</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
-
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 - 🌱 I’m currently learning **New stuff**
 
 - 📫 How to reach me **baderbelhajallal@gmail.com**
