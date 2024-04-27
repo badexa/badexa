@@ -2,7 +2,7 @@
 ![Hello](https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif)
 <h1 align="center">Hi 👋, I'm Bader Belhaj Allal</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
-<img align="right" alt="Coding" width="600" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="500" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badexa&label=Profile%20views&color=0e75b6&style=flat" alt="badexa" /> </p>
